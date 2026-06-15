@@ -1,0 +1,1 @@
+- [Carbon Language: An experimental successor to C++ - Chandler Carruth - CppNorth 2022](https://youtu.be/omrY53kbVoA)
